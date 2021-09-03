@@ -49,29 +49,29 @@ During the 1990's, Music piracy was a big issue and a lot of people were sued he
 
 | ID   | Description                             | Category  | Status |
 | ---- | --------------------------------------- | --------- | ------ |
-| HR01 | User shall view the menu screen         | Technical |        |
-| HR02 | User shall navigate using choices       | Scenario  |        |
-| HR03 | User shall hear the song                | Scenario  |        |
-| HR04 | User shall search for the song          | Technical |        |
-| HR05 | User shall login/signup                 | Technical |        |
-| HR06 | User shall browse through the song list | Technical |        |
-| HR07 | Data should be stored in the database   | Scenario  |        |
-| HR08 | User shall see last played song         | Technical |        |
+| HR01 | User shall view the menu screen         | Technical | Implemented       |
+| HR02 | User shall navigate using choices       | Scenario  | Implemented       |
+| HR03 | User shall hear the song                | Scenario  | Implemented       |
+| HR04 | User shall search for the song          | Technical | Implemented       |
+| HR05 | User shall login/signup                 | Technical | Implemented       |
+| HR06 | User shall browse through the song list | Technical | Implemented       |
+| HR07 | Data should be stored in the database   | Scenario  | Implemented       |
+| HR08 | User shall see last played song         | Technical | Future       |
 
 ### Low level Requirements:-
 
 | ID   | Description                                                                            | HLR ID | Status (Implemented/Future) |
 | ---- | -------------------------------------------------------------------------------------- | ------ | --------------------------- |
-| LR01 | In the sign up , username and password can be entered to create account                | HR05   |                             |
-| LR02 | The password is processed using hashing technique and returned                         | HR05   |                             |
-| LR03 | The username and password are stored in the database for further use                   | HR05   |                             |
-| LR04 | In login page, username and password are entered and authenticated using database      | HR05   |                             |
-| LR05 | If the user is invalid, expection is thrown                                            | HR05   |                             |
-| LR06 | The streaming menu screen is displayed with search browse and last played option       | HR01   |                             |
-| LR07 | In search, keyword is entered and checked for valid results                            | HR04   |                             |
-| LR08 | If the program can't find the song, expection is thrown                                | HR04   |                             |
-| LR09 | If the program finds the song, valid results is displayed and user can select the song | HR04   |                             |
-| LR10 | In browse, the list of music tracks is displayed                                       | HR06   |                             |
-| LR12 | The user can choose the song from the browse list                                      | HR06   |                             |
-| LR13 | In last played option, the user is able to see what sing was last played by the user   | HR08   |                             |
-| LR14 | Database is updated with last played song everytime the user listens to the song       | HR08   |                             |
+| LR01 | In the sign up , username and password can be entered to create account                | HR05   |      Implemented                       |
+| LR02 | The password is processed using hashing technique and returned                         | HR05   |      Implemented                       |
+| LR03 | The username and password are stored in the database for further use                   | HR05   |      Implemented                       |
+| LR04 | In login page, username and password are entered and authenticated using database      | HR05   |      Implemented                       |
+| LR05 | If the user is invalid, expection is thrown                                            | HR05   |      Implemented                       |
+| LR06 | The streaming menu screen is displayed with search browse and last played option       | HR01   |      Implemented                       |
+| LR07 | In search, keyword is entered and checked for valid results                            | HR04   |      Implemented                       |
+| LR08 | If the program can't find the song, expection is thrown                                | HR04   |      Implemented                       |
+| LR09 | If the program finds the song, valid results is displayed and user can select the song | HR04   |      Implemented                       |
+| LR10 | In browse, the list of music tracks is displayed                                       | HR06   |      Implemented                       |
+| LR12 | The user can choose the song from the browse list                                      | HR06   |      Implemented                       |
+| LR13 | In last played option, the user is able to see what sing was last played by the user   | HR08   |       Future                      |
+| LR14 | Database is updated with last played song everytime the user listens to the song       | HR08   |       Implemented                      |
