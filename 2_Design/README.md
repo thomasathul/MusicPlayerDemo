@@ -15,3 +15,7 @@
 ### Structural
 
 ![Class Diagram](/2_Design/structlowlevel.png)
+
+### Behavioural
+
+![State Diagram](/2_Design/behavelowlevel.png)
