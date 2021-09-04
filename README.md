@@ -2,7 +2,7 @@
 
 Build | Code Quality | Pytest | Coverage |
 |---------|------------|-----------|---------|
-|         |            |           |         |
+|         | [![Code Grade](https://www.code-inspector.com/project/27327/status/svg)](https://www.code-inspector.com/project/27327/status/svg)           |           |         |
 
 
 ## Introduction
