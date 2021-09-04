@@ -25,7 +25,7 @@ Daily_Assignments           | Contains daily activities (Day 1 and Day 2)
 ## Contributors List and Summary
 | PS_Number | Name | Features |Issues Raised | Issues Solved | No. of Test Cases | No. of Test Cases Passing |
 |-----|-----|----|------|-----|-----|-----|
-| 99005871 | Athul Thomas | F_01,F_02,F_03,F_04,F_05  | 0  | 0 | 10 | 10 |
+| 99005871 | Athul Thomas | F_01,F_02,F_03,F_04,F_05  | 2  | 1 | 10 | 10 |
 
 
 |Features ID|  Feature List|
