@@ -1,2 +1,4 @@
 openpyxl
 pygame
+pylint
+pytest
