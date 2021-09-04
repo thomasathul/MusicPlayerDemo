@@ -106,7 +106,7 @@ def test_selectsong():
     object1 = streamplayer.MusicPlayer()
     assert object1.select_song("Zaalima") == "Zaalima.wav"
     object1 = streamplayer.MusicPlayer()
-    assert object1.select_song("XYZsong") is "XYZsong"
+    assert object1.select_song("XYZsong") == "XYZsong"
 
 
 def test_usernameexist():
