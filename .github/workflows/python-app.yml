@@ -34,4 +34,7 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        pytest -k 'test_usernamevalidity and test_passwordvalidity and test_passwordhashing' 3_Implementation/test_streaming.py
+        pytest 3_Implementation/test_streaming.py::test_usernamevalidity
+        pytest 3_Implementation/test_streaming.py::test_passwordvalidity
+        pytest 3_Implementation/test_streaming.py::test_passwordhashing
+        
