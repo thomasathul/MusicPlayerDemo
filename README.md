@@ -18,7 +18,6 @@ Folder                      | Description
 2_Design                    | Documents specifying design details
 3_Implementation            | Contains all relevant codes 
 4_TestPlan                  | Documents with test plans
-5_ImagesandVideos           | Document with images and videos regarding project
 Certification               | Contains the Python(Basic) Hackerrank Certification
 Daily_Assignments           | Contains daily activities (Day 1 and Day 2)
 
