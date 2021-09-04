@@ -2,7 +2,7 @@
 
 Build | Code Quality | Pytest | Coverage |
 |---------|------------|-----------|---------|
-|         | [![Code Grade](https://www.code-inspector.com/project/27327/status/svg)](https://www.code-inspector.com/project/27327/status/svg)           |           |         |
+|         | [![Pylint](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/pylint.yml/badge.svg)](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/pylint.yml) [![Code Grade](https://www.code-inspector.com/project/27327/status/svg)](https://www.code-inspector.com/project/27327/status/svg)           |           |         |
 
 
 ## Introduction
