@@ -1,8 +1,8 @@
 # Music Streaming App
 
-Build | Code Quality | Pytest | Coverage |
+Build | Code Quality | Pytest | Git Inspector |
 |---------|------------|-----------|---------|
-|         | [![Pylint](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/pylint.yml/badge.svg)](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/pylint.yml) [![Code Grade](https://www.code-inspector.com/project/27327/status/svg)](https://www.code-inspector.com/project/27327/status/svg)           |           |         |
+|         | [![Pylint](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/pylint.yml/badge.svg)](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/pylint.yml) [![Code Grade](https://www.code-inspector.com/project/27327/status/svg)](https://www.code-inspector.com/project/27327/status/svg)           |           | [![Git Inspector](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/gitinspector.yml)        |
 
 
 ## Introduction
