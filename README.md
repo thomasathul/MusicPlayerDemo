@@ -1,8 +1,8 @@
 # Music Streaming App
 
-Build | Code Quality | Pytest | Git Inspector |
-|---------|------------|-----------|---------|
-|         | [![Pylint](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/pylint.yml/badge.svg)](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/pylint.yml) [![Code Grade](https://www.code-inspector.com/project/27327/status/svg)](https://www.code-inspector.com/project/27327/status/svg)           |           | [![Git Inspector](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/gitinspector.yml)        |
+Code Quality | Pytest | Git Inspector |
+|------------|-----------|---------|
+| [![Pylint](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/pylint.yml/badge.svg)](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/pylint.yml) [![Code Grade](https://www.code-inspector.com/project/27327/status/svg)](https://www.code-inspector.com/project/27327/status/svg)           |           | [![Git Inspector](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/thomasathul/Genesis_OOPS_Using_Python/actions/workflows/gitinspector.yml)        |
 
 
 ## Introduction
@@ -25,11 +25,13 @@ Daily_Assignments           | Contains daily activities (Day 1 and Day 2)
 ## Contributors List and Summary
 | PS_Number | Name | Features |Issues Raised | Issues Solved | No. of Test Cases | No. of Test Cases Passing |
 |-----|-----|----|------|-----|-----|-----|
-| 99005871 | Athul Thomas |  |   |  |  |  |
+| 99005871 | Athul Thomas | F_01,F_02,F_03,F_04,F_05  | 0  | 0 | 10 | 10 |
 
 
 |Features list|  Feature ID|
 |-------------|----------|
-||  |
-|| |
-|| |
+|F_01| Login |
+|F_02| Signup|
+|F_03| Search |
+|F_04| Browse|
+|F_05| Play/Pause/Stop |
