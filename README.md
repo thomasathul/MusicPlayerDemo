@@ -18,6 +18,7 @@ Folder                      | Description
 2_Design                    | Documents specifying design details
 3_Implementation            | Contains all relevant codes 
 4_TestPlan                  | Documents with test plans
+5_ImagesandVideos           | Contains all relevant images and videos
 Certification               | Contains the Python(Basic) Hackerrank Certification
 Daily_Assignments           | Contains daily activities (Day 1 and Day 2)
 
@@ -34,3 +35,11 @@ Daily_Assignments           | Contains daily activities (Day 1 and Day 2)
 |F_03| Search |
 |F_04| Browse|
 |F_05| Play/Pause/Stop |
+
+## Contribution Report
+
+![Contribution](/5_ImagesandVideos/contribution.PNG)
+
+## Code Coverage Report
+
+
