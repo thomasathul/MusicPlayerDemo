@@ -43,3 +43,6 @@ Daily_Assignments           | Contains daily activities (Day 1 and Day 2)
 ## Code Coverage Report
 
 
+![Coverage](/5_ImagesandVideos/coverage1.PNG)
+
+
